@@ -1,0 +1,32 @@
+h1{
+    align-content: top;
+    justify-content: center;
+    font-size: x-large;
+    display: flex;
+}
+#OctoCat1 {
+    background-color: lightseagreen;
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    margin: 3%;   
+}
+#OctoCat2 {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 3%;
+    padding-bottom: 2%;
+}
+#OctoCat3 {
+    background-color: red;
+    display: flex;
+    align-items: bottom;
+    justify-content: space-evenly;
+    margin: 3%;
+}
+img {
+    height: 300px;
+    width: 150px;
+}
